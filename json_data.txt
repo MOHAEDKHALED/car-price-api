@@ -1,0 +1,11 @@
+[
+  {"Brand": "Hyundai", "Model": "Accent", "Body": "Sedan",
+   "Color": "Blue", "Fuel": "Gasoline", "Kilometers": "40000 to 159999",
+   "Engine": "1.6L", "Transmission": "Automatic", "Gov": "Yes",
+   "Year": 2018},
+
+  {"Brand": "Fiat", "Model": "Punto", "Body": "Hatchback",
+   "Color": "Red", "Fuel": "Diesel", "Kilometers": "80000 to 199999",
+   "Engine": "1.3L", "Transmission": "Manual", "Gov": "No",
+   "Year": 2017}
+]
